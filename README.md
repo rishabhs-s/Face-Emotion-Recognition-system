@@ -1,2 +1,3 @@
 # Face-Recognition-system
- Facial Recognisition System using OpenCV and Keras
+ Facial Recognisition System using OpenCV and Keras.
+ 
