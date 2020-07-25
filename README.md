@@ -13,5 +13,8 @@
   Here i have applied Convolutional neural networks (CNN) to perform the task and constructed a CNN using Keras and Tensorflow.<br>
   
   <br>
-  I first used mean standardization but the results were not accurate ,next i used the min-max standardization which somewhat improved the acuracy of prediction
+  I first used mean standardization but the results were not accurate ,next i used the min-max standardization which somewhat improved the acuracy of prediction<br>
+  
+   [Face Recognition.ipynb](https://bit.ly/3g4WX5u) - This is the main model used to save weight and json file.<br>
+   [tester.ipynb](https://github.com/rishabhs-s/Face-Emotion-Recognition-system/blob/master/tester.ipynb)-This is the driver code which takes the saved weights and json file  
   
